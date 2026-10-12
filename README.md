@@ -4,6 +4,7 @@ Su rasgo distintivo es el diseño offline-first: el estudiante puede descargar l
 
 Su primera versión (MVP) tendría tres cursos: programación inicial, diseño de páginas web y hojas de cálculo. En una segunda etapa se agregarían funciones como el panel para docentes, el laboratorio virtual y un tutor con inteligencia artificial.
 
+
 Estudiantes: 
 	
   • Gabriela Stephani Figueroa Calderón - FC250109 
