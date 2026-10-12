@@ -7,5 +7,7 @@ Su primera versión (MVP) tendría tres cursos: programación inicial, diseño d
 Estudiantes: 
 	
   • Gabriela Stephani Figueroa Calderón - FC250109 
+  
   • Daniela Nicole García Guillén -	GG251303
+  
   • Katherine Alexandra Pinto Vila - PV251591
