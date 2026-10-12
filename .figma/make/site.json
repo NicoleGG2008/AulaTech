@@ -1,0 +1,10 @@
+{
+  "description": "An offline-first mobile app offering high school computer science lessons with interactive exercises, gamified progress, and downloadable courses.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
